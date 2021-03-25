@@ -1,2 +1,3 @@
 "# kinozal-template" 
-Hello from read me
+Hello from read me;
+
